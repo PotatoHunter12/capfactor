@@ -19,8 +19,7 @@
                 justify-content: center;
             }
             canvas {
-                margin-top: 10pt;
-                position: fixed;
+                margin-top: 0pt;
 
             }
         </style>
